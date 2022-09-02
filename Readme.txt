@@ -1,3 +1,7 @@
+Opa, este aqui é o meu site que utilizei para a minha empresa para o TCC do meu técnico em informática.
+
+
+Utilizei um bootstrap, aqui estão as informações dele!
 Thanks for downloading this template!
 
 Template Name: Squadfree
